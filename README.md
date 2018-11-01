@@ -13,4 +13,4 @@
 * 클라이언트 : 윈도우 환경, Java
 
 ### 개발한 사람 (깃허브계정)
-* vvvvvv8818, juheeeee0727, qkrjh818
+* vvvvvv8818, juhee0727, juhunn
